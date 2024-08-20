@@ -7,11 +7,11 @@
 
 #
 
-👨‍💻 Обо мне
+👨‍💻 Обо мне —
 > Я начинающий Frontend разработчик. Свой путь в IT я начал ещё в школе, когда увлекся разработкой на Pascal во время уроков информатики. С тех пор я пробовал изучать много различных направлений, а также языков начиная от Python и заканчивая C#. Но решил остановится на Front-end разработке, потому что мне нравится видеть весь результат сразу.
 
 #
-💹 Статистика
+💹 Статистика —
 <p align="bottom">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artemk1z&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artemk1z&theme=github_dark"/>
@@ -19,12 +19,16 @@
 </p>
 
 #
-🔩 Стек технологий 
+🔩 Основной стек —
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="35" height="35"/>&nbsp;
+</div>
+
+🔧 Инструменты —
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="35" height="35"/>
 </div>
 
