@@ -3,7 +3,6 @@
 </p>
 
 
-
 ## About me
 > I am a beginner Frontend developer. I started my way into IT at school, when I became interested in Pascal development during computer science lessons. Since then, I have tried to study many different directions, as well as languages ranging from Python to C#. But I decided to stop at Front-end development, because I like to see the whole result at once.
 > 
