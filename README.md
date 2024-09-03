@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=990&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D1%82%D1%91%D0%BC!;%D0%AF+Frontend+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.;Hi!+My+name+is+Artem!;I+am+a+Frontend+Developer."/>
 </p>
 
-
+<!-- --->
 ## About me
 > I am a beginner Frontend developer. I started my way into IT at school, when I became interested in Pascal development during computer science lessons. Since then, I have tried to study many different directions, as well as languages ranging from Python to C#. But I decided to stop at Front-end development, because I like to see the whole result at once.
 > 
