@@ -1,11 +1,12 @@
+<!---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=40C463&center=true&vCenter=true&width=435&lines=Hello+there!;My+name+is+Artem;I+am+a+Frontend+Developer."/>
 </p>
-
-<!-- --->
+--->
 ## About me
 > I am a beginner Frontend developer. I started my way into IT at school, when I became interested in Pascal development during computer science lessons. Since then, I have tried to study many different directions, as well as languages ranging from Python to C#. But I decided to stop at Front-end development, because I like to see the whole result at once.
 > 
+<!---
 ## Technical stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
@@ -15,7 +16,7 @@
   <p></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="35" height="35"/>&nbsp;
 </div>
-
+--->
 
 
 ## Statistics
