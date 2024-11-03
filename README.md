@@ -21,7 +21,7 @@
 
 ## Statistics
 <p align="bottom">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artemk1z&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artemk1z&theme=github_dark"/>
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artemk1z&theme=github_dark"/> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Artemk1z&theme=github_dark&utcOffset=8"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artemk1z&theme=github_dark"/>
