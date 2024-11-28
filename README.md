@@ -1,7 +1,6 @@
 
 
 
-## Statistics
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artemk1z&theme=github_dark"/>
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artemk1z&theme=github_dark"/> 
