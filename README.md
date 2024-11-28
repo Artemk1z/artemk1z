@@ -2,7 +2,7 @@
 
 
 ## Statistics
-<p align="bottom">
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artemk1z&theme=github_dark"/>
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artemk1z&theme=github_dark"/> 
   <<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Artemk1z&theme=github_dark&utcOffset=8"/>
@@ -15,5 +15,6 @@
 <a href="mailto:artembariev.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 -->
 #
-
-[![](https://visitcount.itsvg.in/api?id=Artemk1z&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=Artemk1z&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in">
+</p>
